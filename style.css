@@ -1,0 +1,27 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(41, 41, 41) !important;
+}
+.card {
+  width: 280px !important;
+  height: 280px !important;
+  background-color: red !important;
+
+}
+input {
+  width: 35px;
+  height: 35px;
+  margin: 3px !important;
+  border: none;
+}
+.form-check-input {
+  width: 35px !important;
+  height: 35px !important;
+  margin-right: 3px !important;
+}
+.random{
+  color: red !important;
+}
